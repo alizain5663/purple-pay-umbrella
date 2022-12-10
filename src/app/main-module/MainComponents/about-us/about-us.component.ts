@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { ActivatedRoute, Router } from '@angular/router';
 
 @Component({
   selector: 'app-about-us',
@@ -7,9 +8,15 @@ import { Component, OnInit } from '@angular/core';
 })
 export class AboutUsComponent implements OnInit {
 
-  constructor() { }
+  constructor(private _ActivatedRoute:ActivatedRoute, private _Router:Router) { }
 
   ngOnInit(): void {
+    this._ActivatedRoute.fragment.subscribe((fragment:any) => {
+      this._Router.navigateByUrl(`/about#${fragment}`);
+    })
+  }
+  scroll(el:HTMLElement){
+    el.scrollIntoView();
   }
 
 }

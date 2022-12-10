@@ -40,7 +40,7 @@
 
 /* services  */
 .service{
-    background-color: rgb(233, 116, 81);
+    background-color: #613385;
     color: rgb(139,139,139);
 }
 .service-h3{
@@ -88,7 +88,7 @@ text-transform: uppercase;
 }
 
 .site-heading h2 span {
-color: rgb(255, 87, 51);
+color: #613385;
 }
 
 .site-heading h4 {
@@ -100,7 +100,7 @@ z-index: 1;
 }
 
 .site-heading h4::before {
-background: rgb(255, 87, 51) none repeat scroll 0 0;
+background: #613385 none repeat scroll 0 0;
 bottom: 0;
 content: "";
 height: 2px;
@@ -130,13 +130,13 @@ width: 15px;
 }
 
 .we-offer-area .our-offer-carousel .owl-dots .owl-dot.active span {
-background: rgb(255, 87, 51) none repeat scroll 0 0;
-border-color: rgb(255, 87, 51);
+background: #613385 none repeat scroll 0 0;
+border-color: #613385;
 }
 
 .we-offer-area .item {
 background: #ffffff none repeat scroll 0 0;
-border-left: 2px solid rgb(255, 87, 51);
+border-left: 2px solid #613385;
 -moz-box-shadow: 0 0 10px #cccccc;
 -webkit-box-shadow: 0 0 10px #cccccc;
 -o-box-shadow: 0 0 10px #cccccc;
@@ -154,7 +154,7 @@ padding: 67px 40px 64px;
 }
 
 .we-offer-area.text-center .item i {
-background: rgb(255, 87, 51) none repeat scroll 0 0;
+background: #613385 none repeat scroll 0 0;
 -webkit-border-radius: 50%;
 -moz-border-radius: 50%;
 border-radius: 50%;
@@ -175,7 +175,7 @@ margin-bottom: 25px;
 }
 
 .we-offer-area.text-center .item i::after {
-border: 2px solid rgb(255, 87, 51);
+border: 2px solid #613385;
 -webkit-border-radius: 50%;
 -moz-border-radius: 50%;
 border-radius: 50%;
@@ -213,7 +213,7 @@ top: 30px;
 
 .our-offer-carousel.center-active .owl-item:nth-child(2n) .item,
 .we-offer-area.center-active .single-item:nth-child(2n) .item {
-background: rgb(255, 87, 51) none repeat scroll 0 0;
+background: #613385 none repeat scroll 0 0;
 }
 
 .our-offer-carousel.center-active .owl-item:nth-child(2n) .item i,
@@ -226,7 +226,7 @@ color: #ffffff;
 }
 
 .we-offer-area .item i {
-color: rgb(255, 87, 51);
+color: #613385;
 display: inline-block;
 font-size: 60px;
 margin-bottom: 20px;
@@ -252,7 +252,7 @@ transition: all 0.35s ease-in-out;
 }
 
 .we-offer-area .item::after {
-background: rgb(255, 87, 51) none repeat scroll 0 0;
+background: #613385 none repeat scroll 0 0;
 content: "";
 height: 100%;
 left: -100%;
@@ -283,11 +283,11 @@ border-color: #ffffff !important;
 
 .we-offer-area.text-center .item:hover i {
 background-color: #ffffff !important;
-color: rgb(255, 87, 51) !important;
+color: #613385 !important;
 }
 
 .we-offer-area.text-left .item i {
-background: rgb(255, 87, 51)none repeat scroll 0 0;
+background: #613385 none repeat scroll 0 0;
 -webkit-border-radius: 50%;
 -moz-border-radius: 50%;
 border-radius: 50%;
@@ -304,7 +304,7 @@ text-align: center;
 }
 
 .we-offer-area.text-left .item i::after {
-border: 2px solid rgb(255, 87, 51);
+border: 2px solid #613385;
 -webkit-border-radius: 50%;
 -moz-border-radius: 50%;
 border-radius: 50%;
@@ -380,7 +380,7 @@ i{
 
 }
 .color{
-    color:rgb(255, 87, 51)
+    color:#613385
 
 }
 
@@ -388,7 +388,7 @@ i{
 
 /* form  */
 .formCol-1{
-    background-color: rgb(233, 116, 81);
+    background-color: #613385;
     
 }
 .section-border{
@@ -404,7 +404,7 @@ border-radius:0 30px 30px 0;
 
 }
 .btn-text{
-    color: rgb(233, 116, 81);
+    color: #613385;
 
 }
 .btn-text:hover{
@@ -422,6 +422,6 @@ border-radius:0 30px 30px 0;
 
 
 .icon-color{
-    color: rgb(233, 116, 81);
+    color: #613385;
 
 }

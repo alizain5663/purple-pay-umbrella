@@ -57,6 +57,9 @@ ul li a:hover{
     color:#613385!important;
 }
 
+.logo{
+    margin-top: 10vh;
+}
 .btn1{
     margin: -4px;
     background-color:#613385 ;
@@ -72,5 +75,6 @@ ul li a:hover{
 
 }
 .img-setting{
-    margin-bottom: 25px;
+   
+    margin-top: 2.5vh;
 }

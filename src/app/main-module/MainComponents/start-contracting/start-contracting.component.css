@@ -3,14 +3,14 @@
 }
 
 .approach-h2{
-    color:rgb(255, 87, 51)
+    color:#613385
 }
 .LC{
-    background-color: rgb(255, 87, 51);
+    background-color: #613385;
     color: white;
 }
 .PU{
-    background-color: rgb(255, 87, 51);
+    background-color: #613385;
     color: white;
 }
 .fonts{
@@ -43,11 +43,11 @@
     font-family: 'Nunito', sans-serif;
     font-weight: 600;
     transition: .5s;
-    color: rgb(233, 116, 81);
+    color: #613385;
     background-color: white;
 }
 .interest{
-    background-color: rgb(233, 116, 81);
+    background-color: #613385;
     height: 70vh;
 }
 
@@ -56,27 +56,27 @@
     height: 60vh;
 }
 h3{
-    color:rgb(233, 116, 81);
+    color:#613385;
 }
 
 .hrcolor{
-    background-color: #FF5733;
+    background-color:#613385;
     height: 5px;
     
 }
 
 /* calculator start */
 .calc{
-    background-color:rgb(233, 116, 81) ;
+    background-color:#613385 ;
 }
 .headingcolor{
-    color:rgb(233, 116, 81)  ;
+    color:#613385  ;
 }
 .calcbtn{
-    border-color: #FF5733;
+    border-color:#613385;
 }
 .calcbtn:hover{
-    background-color: #FF5733;
+    background-color:#613385;
     color:white;
 }
 /* calculator end */
